@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\git projects\\volcanogamejam2022\\plugins\\advancedsessionsteam\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\git projects\\volcanogamejam2022\\intermediate\\build\\win64\\volcanogamejam2022\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\git projects\\volcanogamejam2022\\plugins\\advancedsessionsteam\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

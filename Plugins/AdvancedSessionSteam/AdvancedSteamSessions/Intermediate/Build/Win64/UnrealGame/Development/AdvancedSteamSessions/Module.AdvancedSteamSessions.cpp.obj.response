@@ -1,6 +1,6 @@
-C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp
+"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
 /I .
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -115,33 +115,32 @@ C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSess
 /I Runtime\TypedElementFramework\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT
 /I Runtime\TypedElementRuntime\Public
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Source
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSteamSessions\UHT"
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Source
-/I C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Source\AdvancedSessions\Classes
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT"
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Source"
+/I "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Source\AdvancedSessions\Classes"
 /I ThirdParty\Steamworks\Steamv153\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealGame\Inc\OnlineSubsystemSteam\UHT
 /I ..\Plugins\Online\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Classes
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Public
-/external:W0
-/external:I ThirdParty\mimalloc\include
-/external:I ThirdParty\LibTiff\Source\Win64
-/external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Yu"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-/sourceDependencies C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.dep.json
+/I ThirdParty\mimalloc\include
+/I ThirdParty\LibTiff\Source\Win64
+/I ThirdParty\LibTiff\Source
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"E:\GIT PROJECTS\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Yu"E:\GIT PROJECTS\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"E:\GIT PROJECTS\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/sourceDependencies "E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
