@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Documents\Unreal Projects\VRExpPluginExp\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
+"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"

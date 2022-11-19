@@ -6,9 +6,9 @@
 /NAME:"UnrealEditor-AdvancedSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
-"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
-"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3_of_3.cpp.obj"
-"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
-/OUT:"C:\Users\ninou\OneDrive\Documents\GitHub\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"
+"E:\GIT PROJECTS\VolcanoGameJam2022\Intermediate\Build\Win64\VolcanoGameJam2022Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
+"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
+"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3_of_3.cpp.obj"
+"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"E:\GIT PROJECTS\VolcanoGameJam2022\Plugins\AdvancedSessionSteam\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"
